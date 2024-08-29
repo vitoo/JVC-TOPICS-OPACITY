@@ -5,6 +5,8 @@
 // @author       JVC
 // @match        https://www.jeuxvideo.com/forums/0-51-0-1-0-1-0-blabla-18-25-ans.htm
 // @grant        none
+// @downloadUrl  https://github.com/ZoOoOoP/JVC-DEREGLEMENT-QUANTIQUE/raw/main/JVC-TOPICS-OPACITY.user.js
+// @updateUrl    https://github.com/ZoOoOoP/JVC-DEREGLEMENT-QUANTIQUE/raw/main/JVC-TOPICS-OPACITY.user.js
 // ==/UserScript==
 
 (function() {
